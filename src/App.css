@@ -36,3 +36,32 @@
     transform: rotate(360deg);
   }
 }
+
+
+.box{
+  border: 2px solid black;
+  width: 28rem;
+  height: 5rem;
+  margin-top: 0.5rem;
+  margin-left: 6rem;
+  
+}
+
+
+.imgBox{
+  width: 8rem;
+  height: auto;
+  margin-right: 2rem;
+}
+
+.input{
+  width: 4rem;
+  margin-left: 5rem;
+}
+
+.button{
+  background-color: #359CEE;
+  color: white;
+  width: 3rem;
+  height: 3rem;
+}
